@@ -4,3 +4,4 @@
 ### 1.28.2023 Uploaded past couple weeks of work on data collection system. Huge progress has been made today.
 ### 2.13.2023 Uploaded files for final version of the data collection system and the SQL queries used to create and display the database.
 ### 2.14.2023 Uploaded corrected final version of data collection system
+### 3.16.2023 Uploaded poster for Student Celebration of Research
