@@ -5,3 +5,4 @@
 ### 2.13.2023 Uploaded files for final version of the data collection system and the SQL queries used to create and display the database.
 ### 2.14.2023 Uploaded corrected final version of data collection system
 ### 3.16.2023 Uploaded poster for Student Celebration of Research
+### 3.23.2023 Uploaded exploratory data analysis
