@@ -8,4 +8,4 @@
 ### 3.23.2023 Uploaded exploratory data analysis
 ### 4.11.2023 Uploaded csv data file and almost finished predictive model
 ### 4.2O.2023 Uploaded final version of predictive model - I would recommend retraining after each complete new week or month is added to the database
-### 4.24.2023 Uploaded final project paper
+### 4.24.2023 Uploaded final project paper & completed poster
